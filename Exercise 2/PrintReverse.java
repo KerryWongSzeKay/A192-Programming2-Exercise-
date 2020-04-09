@@ -4,7 +4,7 @@ public class PrintReverse//start of class
    public static void main (String[]args)//start of main method
    {
       Scanner scan=new Scanner(System.in);
-      System.out.print("Enter the Spring : ");
+      System.out.print("Enter some words : ");
       String str=scan.nextLine();
       int stringLength=str.length();
       char reverse;
