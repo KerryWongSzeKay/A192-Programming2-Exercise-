@@ -2,7 +2,7 @@
 
 Type the above definition of a Triangle class and save in a file. 
 
-https://github.com/KerryWongSzeKay/Programming2-Exercise5/blob/master/Triangle.java
+https://github.com/KerryWongSzeKay/A192-Programming2-Exercise-/blob/master/Exercise%205/Triangle.java
 1.	What is the name to be given to this file?
     
         Triangle.java
@@ -13,7 +13,7 @@ https://github.com/KerryWongSzeKay/Programming2-Exercise5/blob/master/Triangle.j
         
 **Task 2**
 
-https://github.com/KerryWongSzeKay/Programming2-Exercise5/blob/master/TriangleDemo.java
+https://github.com/KerryWongSzeKay/A192-Programming2-Exercise-/blob/master/Exercise%205/TriangleDemo.java
 
 OUTPUT:
 
@@ -52,7 +52,7 @@ e)	mutator methods
     
 **Task 3**
 
-https://github.com/KerryWongSzeKay/Programming2-Exercise5/blob/master/PayrollDemo.java
+https://github.com/KerryWongSzeKay/A192-Programming2-Exercise-/blob/master/Exercise%205/PayrollDemo.java
 
 ![image](https://user-images.githubusercontent.com/61194252/78810995-c067c600-79fb-11ea-8670-eaee91cf11a7.png)
 
