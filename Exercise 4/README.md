@@ -3,7 +3,8 @@
         OUTPUT : 3
     
     Next, replace the init() method with a constructor. Modify the main() method.
-    https://github.com/KerryWongSzeKay/A192-Programming2-Exercise-/blob/master/Exercise%204/Q1Main.java
+   
+   https://github.com/KerryWongSzeKay/A192-Programming2-Exercise-/blob/master/Exercise%204/Q1Main.java
     
     OUTPUT:
     ![image](https://user-images.githubusercontent.com/61194252/78806129-dd4ccb00-79f4-11ea-9eb0-daf91abd88e9.png)
