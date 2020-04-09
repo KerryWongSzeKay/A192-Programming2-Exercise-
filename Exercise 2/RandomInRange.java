@@ -15,8 +15,7 @@ public class RandomInRange//start of class
 
    public RandomInRange(int lower, int upper)//start of RandomInRange constructor
    {
-      int rng=(lower>upper)?0:lower+
-      new Random(System.currentTimeMillis()).nextInt((upper-lower)+1);
+      int rng=(lower>upper)?0:lower+new Random(System.currentTimeMillis()).nextInt((upper-lower)+1);
       System.out.println("The Random Number : "+rng);//display random number
    }//end of constructor
 }//end of class
