@@ -4,7 +4,7 @@
 
    https://github.com/KerryWongSzeKay/A192-Programming2-Exercise-/blob/master/Exercise%206/TestStudent.java
 
-![image](https://user-images.githubusercontent.com/61194252/79077263-e27e8280-7d32-11ea-8110-0a5d47225630.png)
+![image](https://user-images.githubusercontent.com/61194252/79077840-bcf37800-7d36-11ea-91ef-5f265a1de91e.png)
 
 b)	Draw the UML class diagram for the class Student.
 
