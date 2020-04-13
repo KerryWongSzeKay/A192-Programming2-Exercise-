@@ -12,7 +12,7 @@ b)	Draw the UML class diagram for the class Student.
 
 c)  Draw a status memory of the array studDegree after Student’s objects are created.
 
-![image](https://user-images.githubusercontent.com/61194252/79108957-fc0ee100-7da9-11ea-8b95-2df2cce62dc0.png)
+![image](https://user-images.githubusercontent.com/61194252/79110501-23b37880-7dad-11ea-9a70-a7d775aa0ad6.png)
 
 ## Task 2
 
